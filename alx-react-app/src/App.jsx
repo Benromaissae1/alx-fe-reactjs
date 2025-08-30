@@ -27,7 +27,7 @@ function App() {
         <Footer />
       </div>
       <div>
-        <UserProfile name="Alice" age="25" bio="Loves hikinnng and photography" />
+        <UserProfile name="Alice" age="25" bio="Loves hiking and photography" />
       </div>
     </>
   )
